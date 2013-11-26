@@ -1,4 +1,4 @@
-autocomplete
-============
+tomcat-todo
+===========
 
-Trie Tree Autocomplete Implementation in Java
+Demo app for CS 2340 lecture
